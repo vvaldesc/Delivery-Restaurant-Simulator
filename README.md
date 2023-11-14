@@ -1,3 +1,2 @@
 # Delivery-Restaurant-Simulator
-Actualmente en desarrollo
-Consiste en simular entrega de los pedidos de un restaurante mediante hilos en Java
+Simula el funcionamiento de un restaurante, teniendo en cuenta el tiempo que tarda un repartidor en entregar un pedido con hilos.
